@@ -1,0 +1,15 @@
+/Users/kirill/RiderProjects/task10/task11/bin/Debug/net7.0/task11
+/Users/kirill/RiderProjects/task10/task11/bin/Debug/net7.0/task11.deps.json
+/Users/kirill/RiderProjects/task10/task11/bin/Debug/net7.0/task11.runtimeconfig.json
+/Users/kirill/RiderProjects/task10/task11/bin/Debug/net7.0/task11.dll
+/Users/kirill/RiderProjects/task10/task11/bin/Debug/net7.0/task11.pdb
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/task11.csproj.AssemblyReference.cache
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/task11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/task11.AssemblyInfoInputs.cache
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/task11.AssemblyInfo.cs
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/task11.csproj.CoreCompileInputs.cache
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/task11.dll
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/refint/task11.dll
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/task11.pdb
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/task11.genruntimeconfig.cache
+/Users/kirill/RiderProjects/task10/task11/obj/Debug/net7.0/ref/task11.dll
