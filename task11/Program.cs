@@ -51,7 +51,7 @@ namespace Task11
             int i = 0;
             while (i < line.Length)
             {
-                if (i > 0 && IsDigit(line[i - 1]))
+                if (i > 0 && (IsDigit(line[i - 1]) || line[i - 1] == '.'))
                 {
                     i++;
                     continue;
@@ -62,10 +62,12 @@ namespace Task11
                 if (ip != null)
                 {
                     int endPos = i + ip.Length;
-                    if (endPos < line.Length && IsDigit(line[endPos]))
+
+                    // справа не должно быть ни цифры, ни точки
+                    if (endPos < line.Length && (IsDigit(line[endPos]) || line[endPos] == '.'))
                     {
                         i++;
-                        continue;
+                        continue; 
                     }
 
                     result.Add(ip);
