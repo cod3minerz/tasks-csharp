@@ -62,8 +62,7 @@ namespace Task11
                 if (ip != null)
                 {
                     int endPos = i + ip.Length;
-
-                    // справа не должно быть ни цифры, ни точки
+                    
                     if (endPos < line.Length && (IsDigit(line[endPos]) || line[endPos] == '.'))
                     {
                         i++;
